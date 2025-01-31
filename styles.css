@@ -52,6 +52,6 @@ button:hover {
 }
 
 .settings label {
-    display: block;
+    display: flex;
     margin: 5px 0;
 }
